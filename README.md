@@ -1,0 +1,2 @@
+# CollectionOrRegex
+TRegex
